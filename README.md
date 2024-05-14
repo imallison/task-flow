@@ -1,4 +1,9 @@
 # task-flow
+=======
+# Task Flow
+- Task scheduler/to do list tracker
+- Task track flow
+
 
 ## Project setup
 ```
@@ -21,4 +26,5 @@ npm run lint
 ```
 
 ### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 See [Configuration Reference](https://cli.vuejs.org/config/).
