@@ -1,4 +1,4 @@
-# task-flow
+# frontend
 
 ## Project setup
 ```
